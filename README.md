@@ -12,9 +12,6 @@
 </a> 
 </p>
 
-### 🫡 Actual Role - January 2024
-- Senior Level II / Team Lead 
-
 ### 💪 Skills
 - <b>Android</b></br>
 | MAD Skills - Modern Android development | Jetpack Components | Jetpack Compose | Dagger 2, Dagger Hilt | Koin | UnitTest | Instrumented Test | CI/DC | SOLID | Retrofit | GraphQl | Firebase API's | Google API's  | Payments (In-App) | Shopify SDK | Stripe SDK | MVVM | Java | Kotlin | Google Maps API
